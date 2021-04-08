@@ -1,11 +1,11 @@
 import './App.css';
-import {Fragment, useEffect, useState} from 'react';
+import {useEffect, useState} from 'react';
 import {MenuItem,FormControl,Select} from "@material-ui/core";
 import InfoBox from '../src/InfoBox';
 import Map from '../src/Map';
 import Table from '../src/Table';
 import {sortData,prettyPrint} from '../src/util';
-import {Card,CardContent,Typography} from '@material-ui/core';
+import {Card,CardContent} from '@material-ui/core';
 import LineGraph from './LineGraph';
 import 'leaflet/dist/leaflet.css';
 function App() {
