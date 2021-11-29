@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T12:55:52.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="14.5.3" etag="eYYWaqXDMbQwFU0rNnr3" type="github"><diagram id="djQKnpplXkEYE7vjVOih">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-29T13:05:48.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="zqpUjM14knTFiXkDPcKe" version="14.5.3" type="github">
+  <diagram id="djQKnpplXkEYE7vjVOih" name="Page-1">
+    <mxGraphModel dx="1021" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7fhLUojwlOoKGEyHbdq3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="680" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="7fhLUojwlOoKGEyHbdq3-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="620" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7fhLUojwlOoKGEyHbdq3-3" value="Folder Location" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7fhLUojwlOoKGEyHbdq3-4" value="Node Version" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7fhLUojwlOoKGEyHbdq3-5" value="Run Command" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7fhLUojwlOoKGEyHbdq3-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" vertex="1" parent="1">
+          <mxGeometry x="690" y="120" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="7fhLUojwlOoKGEyHbdq3-12" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
+          <mxGeometry x="690" y="260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7fhLUojwlOoKGEyHbdq3-14" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Project&amp;nbsp; Title&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="610" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7fhLUojwlOoKGEyHbdq3-15" value="Export" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;fontColor=#ffffff;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="650" y="420" width="80" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="7fhLUojwlOoKGEyHbdq3-17" value="&lt;p style=&quot;line-height: 0%&quot;&gt;Notes&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="490" width="620" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
